@@ -8,7 +8,7 @@ const Footer = () => {
         <footer class="p-4 bg-white md:p-8 lg:p-10 border-2 border-gray-200">
         <div class="mx-auto max-w-screen-xl text-center">
             <a href="#" class="flex justify-center items-center text-2xl font-semibold pb-8 text-gray-900 ">
-                <Image class='w-max h-24 p-2'src = {logo}/>
+                <Image class='w-max sm:h-24 h-20 p-2'src = {logo}/>
             </a>
             <ul class="flex flex-wrap justify-center items-center mb-6 text-gray-900 ">
                 <li>

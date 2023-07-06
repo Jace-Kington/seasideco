@@ -15,7 +15,7 @@ const Header = () => {
     <nav class="bg-white px-4 lg:px-6 py-2.5 shadow-lg">
         <div class="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl">
             <a href="#">
-                <Image src = {logo} class="h-24 w-max p-5"/>
+                <Image src = {logo} class="h-20 w-max p-4 sm:h-24 sm:p-5"/>
             </a>
             <div class="flex items-center lg:order-2">
                 <a href="#get-started" class="bg-orange-400 text-white   font-medium rounded-lg text-sm px-4 lg:px-5 py-2 lg:py-2.5 mr-2 ">Buy Now</a>
