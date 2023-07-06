@@ -19,7 +19,7 @@ const Upcoming = () => {
 
     const images = [upcoming1, upcoming2, upcoming3, upcoming4, upcoming5]
     return(
-        <div id="upcoming" className='bg-gray-50 '>
+        <div id="upcoming" className=''>
             <div className = 'pb-12 px-4 max-w-screen-xl mx-auto pt-12'>
                 <div>
                     <div  className='uppercase font-bold text-orange-400'>
