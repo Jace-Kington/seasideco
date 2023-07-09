@@ -28,6 +28,9 @@ const Header = () => {
             <div class="hidden justify-between items-center w-full lg:flex lg:w-auto lg:order-1" id="mobile-menu-2">
                 <ul class="flex flex-col mt-4 font-medium lg:flex-row lg:space-x-8 lg:mt-0">
                     <li>
+                        <a href="#products" class="block py-2 pr-4 pl-3 text-black hover:text-orange-400 transition ease-in">Products</a>
+                    </li>
+                    <li>
                         <a href="#upcoming" class="block py-2 pr-4 pl-3 text-black hover:text-orange-400 transition ease-in">Upcoming</a>
                     </li>
                     <li>

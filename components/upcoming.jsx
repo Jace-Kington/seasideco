@@ -52,7 +52,6 @@ const Upcoming = () => {
           className='z-10 bg-white p-6 rounded-xl shadow-xl mb-12 '
         >
          <Image src={images[i]} className='' alt="Gallery image"/>
-         
         </li>
         ))}
       </ul>
